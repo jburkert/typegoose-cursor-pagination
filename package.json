@@ -1,5 +1,5 @@
 {
-    "name": "typegoose-cursor-pagination",
+    "name": "jb-typegoose-cursor-pagination",
     "type": "module",
     "version": "1.2.2",
     "description": "A mongoose plugin to find results using on cursor-based pagination with support for typegoose",
@@ -24,7 +24,7 @@
         "plugin",
         "typegoose"
     ],
-    "author": "Bruno Carvalhal",
+    "author": "Jens Burkert",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/jburkert/typegoose-cursor-pagination/issues"
